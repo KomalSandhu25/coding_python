@@ -34,4 +34,3 @@ class BeautifulArrangement:
 
         dfs(nums)
         return self.res
-
