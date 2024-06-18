@@ -1,7 +1,5 @@
 import heapq
 from heapq import _heapify_max
-
-
 class AlternateStringPlacing:
     def reorganizeString( s: str) -> str:
         dictn = {}
